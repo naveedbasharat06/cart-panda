@@ -88,8 +88,11 @@ export const useFunnelStore = create<FunnelStore>((set, get) => ({
     }
 
     const newEdge: Edge = {
-      ...connection,
       id: `e${connection.source}-${connection.target}`,
+      source: connection.source!,
+      target: connection.target!,
+      sourceHandle: connection.sourceHandle,
+      targetHandle: connection.targetHandle,
       type: 'smoothstep',
       animated: true,
       markerEnd: {
@@ -107,7 +110,7 @@ export const useFunnelStore = create<FunnelStore>((set, get) => ({
   },
 
   addNode: (type, position) => {
-    const { nodeCounters, nodes } = get()
+    const { nodeCounters } = get()
     const config = NODE_CONFIGS[type]
 
     // Increment counter for this type

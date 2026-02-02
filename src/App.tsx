@@ -5,7 +5,6 @@ import ReactFlow, {
   MiniMap,
   ReactFlowProvider,
   Connection,
-  Edge,
   NodeChange,
   EdgeChange,
   ReactFlowInstance,
