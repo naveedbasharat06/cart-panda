@@ -3,7 +3,7 @@ Hi,
 I've completed the Cartpanda practical test. Here are my submissions:
 
 **Live Demo:** [Deploy URL]
-**GitHub:** [Repository URL]
+**GitHub:** https://github.com/naveedbasharat06/cart-panda
 
 ## Part 1: Funnel Builder
 

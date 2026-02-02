@@ -4,7 +4,7 @@ A drag-and-drop upsell funnel builder built with React, TypeScript, and React Fl
 
 **Live Demo:** [Deploy URL will be here]
 
-**GitHub:** [Repository URL]
+**GitHub:** https://github.com/naveedbasharat06/cart-panda
 
 ## Quick Start
 
