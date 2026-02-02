@@ -2,7 +2,7 @@
 
 A drag-and-drop upsell funnel builder built with React, TypeScript, and React Flow.
 
-**Live Demo:** [Deploy URL will be here]
+**Live Demo:** https://cart-panda.vercel.app/
 
 **GitHub:** https://github.com/naveedbasharat06/cart-panda
 

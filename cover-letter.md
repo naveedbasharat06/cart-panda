@@ -2,7 +2,7 @@ Hi,
 
 I've completed the Cartpanda practical test. Here are my submissions:
 
-**Live Demo:** [Deploy URL]
+**Live Demo:** https://cart-panda.vercel.app/
 **GitHub:** https://github.com/naveedbasharat06/cart-panda
 
 ## Part 1: Funnel Builder
